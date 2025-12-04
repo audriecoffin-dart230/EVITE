@@ -1,0 +1,99 @@
+BEGIN:VCALENDAR
+PRODID:-//Microsoft Corporation//Outlook 16.0 MIMEDIR//EN
+VERSION:2.0
+METHOD:REQUEST
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+BEGIN:VTIMEZONE
+TZID:Eastern Standard Time
+BEGIN:STANDARD
+DTSTART:16011104T020000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:16010311T020000
+RRULE:FREQ=YEARLY;BYDAY=2SU;BYMONTH=3
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+ATTENDEE;CN="Audrie Coffin";RSVP=TRUE:mailto:audriecoffin@gmail.com
+CLASS:PUBLIC
+CREATED:20251030T201221Z
+DESCRIPTION:LS Marketing Update\nOct 31\, 2025\, 9:30 – 10:00 AM (A
+	merica/New_York)\n\n\nPlease join my meeting from your computer\, tablet o
+	r smartphone.\nhttps://meet.goto.com/448057997\n\nYou can also dial in usi
+	ng your phone.\nAccess Code: 448-057-997\nUnited States: +1 (646) 749-3122
+	 <tel:+16467493122\,\,448057997> \n\n\nGet the app now and be ready when y
+	our first meeting starts:\nhttps://meet.goto.com/install\n\n
+DTEND;TZID="Eastern Standard Time":20251031T120000
+DTSTAMP:20251030T201221Z
+DTSTART;TZID="Eastern Standard Time":20251031T113000
+LAST-MODIFIED:20251030T201221Z
+ORGANIZER;CN="Lane Services":mailto:info@lane-services.com
+PRIORITY:5
+SEQUENCE:1
+SUMMARY;LANGUAGE=en-us:LS Marketing Update
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E00800000000D04639E89F3FDC01000000000000000
+	010000000F1D9EBD9C1530143A53630AD7E24776D
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion 16.0.19328.20082">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted
+	 from text/rtf format -->\n\n<P DIR=LTR><SPAN LANG="en-us"><B><FONT FACE="
+	Calibri">LS Marketing Update</FONT></B></SPAN><SPAN LANG="en-us"></SPAN><S
+	PAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPA
+	N><SPAN LANG="en-us"><BR>\n<FONT FACE="Calibri">Oct 31\, 2025\, 9:30 –
+	 10:00 AM (America/New_York)<BR>\n<BR>\n<BR>\n</FONT></SPAN><SPAN LANG
+	="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"><B></B></SPAN
+	><SPAN LANG="en-us"><B></B></SPAN><SPAN LANG="en-us"><B><FONT FACE="Calibr
+	i">Please join my meeting from your computer\, tablet or smartphone.</FONT
+	></B></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG
+	="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"><BR>\n</SPAN>
+	<SPAN LANG="en-us"></SPAN><A HREF="https://meet.goto.com/448057997"><SPAN 
+	LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><S
+	PAN LANG="en-us"></SPAN><SPAN LANG="en-us"><U><FONT COLOR="#467886" FACE="
+	Calibri">https://meet.goto.com/448057997</FONT></U></SPAN><SPAN LANG="en-u
+	s"></SPAN></A><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LA
+	NG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"><BR>\n<BR>\
+	n</SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en
+	-us"><B></B></SPAN><SPAN LANG="en-us"><B></B></SPAN><SPAN LANG="en-us"><B>
+	<FONT FACE="Calibri">You can also dial in using your phone.</FONT></B></SP
+	AN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us">
+	</SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"><BR>\n<FONT FACE="Cali
+	bri">Access Code: 448-057-997<BR>\nUnited States:</FONT></SPAN><SPAN LANG=
+	"en-us"> </SPAN><A HREF="tel:+16467493122\,\,448057997"><SPAN LANG="en-us"
+	></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en
+	-us"></SPAN><SPAN LANG="en-us"><U><FONT COLOR="#467886" FACE="Calibri">+1 
+	(646) 749-3122</FONT></U></SPAN><SPAN LANG="en-us"></SPAN></A><SPAN LANG="
+	en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LA
+	NG="en-us"></SPAN><SPAN LANG="en-us"><BR>\n<BR>\n<BR>\n</SPAN><SPAN LANG="
+	en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"><B></B></SPAN><
+	SPAN LANG="en-us"><B></B></SPAN><SPAN LANG="en-us"><B><FONT FACE="Calibri"
+	>Get the app now and be ready when your first meeting starts:</FONT></B></
+	SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us
+	"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"><BR>\n</SPAN><SPAN L
+	ANG="en-us"></SPAN><A HREF="https://meet.goto.com/install"><SPAN LANG="en-
+	us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG=
+	"en-us"></SPAN><SPAN LANG="en-us"><U><FONT COLOR="#467886" FACE="Calibri">
+	https://meet.goto.com/install</FONT></U></SPAN><SPAN LANG="en-us"></SPAN><
+	/A><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us">
+	</SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN></P>\n\n</BODY>
+	\n</HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-APPTSEQTIME:20251017T235529Z
+X-MS-OLK-AUTOSTARTCHECK:FALSE
+X-MS-OLK-CONFTYPE:0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR
+
